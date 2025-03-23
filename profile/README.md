@@ -1,6 +1,8 @@
 # STEM School Hub 2025 in USA, San Francisco and Globally 
 
-<img width="850" alt="Screenshot 2025-03-13 at 2 02 33 AM" src="https://github.com/user-attachments/assets/34eed3f4-850c-46ce-9db6-5ec0a9a6c14e" />
+Empowering 4.5M+ schools globally with AGI/ASI for better, faster education. From China (470K schools) to India (1.4M), EU (200K), and USA (98K), JOIN!
+
+![TCEA-Essential-Learning-Expectations-ELEs-for-AI-in-Education](https://github.com/user-attachments/assets/cb39fe9a-ae2e-41e1-bda3-98d63f93f392)
 
 ## Inspired by XReadyLab.com Team 
 
@@ -17,6 +19,9 @@
 - **STEM Perception**: Only 28% of U.S. adults believe K-12 STEM education in the United States ranks above average internationally
 
 ## STEM Education in the United States
+
+![USA-STEM-Education-Infographic](https://github.com/user-attachments/assets/5e9742c6-b493-4ab1-a695-2510ed0d96ef)
+
 
 ### Infrastructure and Resources
 - **STEM-Focused Schools**: Over 400 specialized STEM-focused high schools nationwide
@@ -174,6 +179,12 @@ The Bay Area, including San Francisco, is home to several highly regarded school
 ### Top School Districts in the Bay Area
 
 #### 1. **Palo Alto Unified School District (PAUSD)**
+
+![Palo Alto Unified School District (PAUSD)](https://github.com/user-attachments/assets/7c760e69-8df6-4d76-9be1-d07894e9c318)
+
+![PA_PAUSD-BOARD-MEETING-_Feb2025_FULL-REZ_60-scaled](https://github.com/user-attachments/assets/0e7c0f1f-f16e-40ff-97e2-208eff4afa06)
+      
+
 Palo Alto Unified School District is consistently ranked as one of the best school districts in the country. According to a recent report by Niche, PAUSD ranked as the 16th best school district in the U.S. and the top school district in California The district has 11,395 students and is known for its high-performing schools, including Henry M. Gunn High School (ranked No. 3 in California) and Palo Alto High School (ranked No. 9 in California). PAUSD excels in academics, teacher quality, and college preparation
 
 #### 2. **Los Gatos-Saratoga Joint Union High School District**
@@ -188,6 +199,9 @@ This district has also risen in the rankings, displacing the San Francisco Unifi
 ### School Districts in San Francisco
 
 #### 1. **San Francisco Unified School District (SFUSD)**
+
+![San Francisco Unified School District (SFUSD)](https://github.com/user-attachments/assets/0f8619b2-8272-4e4e-8760-8328be99c165)
+
 While SFUSD is not among the top-ranked districts in the Bay Area, it has a diverse range of schools and programs. The district has been working to improve its performance and address socio-economic and demographic disparities. Some notable schools within SFUSD include Graystone, Bret Harte, and Leland, which are considered to be relatively good
 
 #### 2. **Pleasanton Unified School District**
@@ -209,5 +223,3 @@ Although not in San Francisco, the Pleasanton Unified School District is a close
 | **Campbell Union High School District** | Top 20 (Bay Area) | N/A | Commitment to student success, community engagement | Recent improvements |
 | **San Francisco Unified School District** | N/A | Graystone, Bret Harte, Leland | Diverse range of schools, community programs | Working to improve performance and address disparities |
 | **Pleasanton Unified School District** | N/A | N/A | More balanced socio-economic and demographic profile | Lower ratings but more compassionate approach |
-
-This comprehensive overview should provide a clear understanding of the best school districts in the Bay Area, including San Francisco, and help you make an informed decision based on your specific needs and preferences.
