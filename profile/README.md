@@ -270,6 +270,63 @@ The selection of top districts relied on rankings from reputable sources like Ni
 - **Key Personnel**: Superintendent Dr. Devin Serrano, appointed in August 2023, leads the district, with principals for each school ensuring local management.  
 - **STEM Focus**: Known for rigorous courses, including STEM subjects, with 72% math and 76% reading proficiency, supporting future tech careers ([GreatSchools](https://www.greatschools.org/california/palos-verdes-estates/palos-verdes-peninsula-unified-school-district/)).
 
+The Palos Verdes Peninsula Unified School District (PVPUSD) has a number of key administrative personnel who play crucial roles in the district's operations. Below is a detailed list of these individuals, including their full names, positions, and contact information where available:
+
+* **Devin Serrano, Ph.D.**: Superintendent
+  * Email: Not provided in the available context
+
+* **Suzanne Wildey, Ed.D.**: Assistant Superintendent, Educational Services
+  * Email: Not provided in the available context
+
+* **Rick Licciardello, Ed.D.**: Assistant Superintendent, Human Resources | Title IX Coordinator
+  * Email: Not provided in the available context
+
+* **Ben Dale, Ed.D.**: Director of Teaching & Learning
+  * Email: Not provided in the available context
+
+* **Aileen Tzeng**: Assistant
+  * Email: Not provided in the available context
+
+* **Dr. Brent Kuykendall**: Principal of Palos Verdes Peninsula High School
+  * Phone: (310) 377-4888 Ext. 42200
+  * Email: kuykendallb@pvpusd.net
+
+* **Linda Reid**: Board of Education Member
+  * Email: Not provided in the available context
+
+* **Ami Gandhi**: Board President
+  * Email: Not provided in the available context
+
+* **Megan Wescott**: CDS Coordinator (Contact for Data Updates)
+  * Phone: (310) 378-9966 Ext. 404
+  * Email: Not provided in the available context
+
+### Additional Information
+
+- **Interim Superintendent**: Doug Kimberly
+  * Doug Kimberly was appointed as the interim superintendent on May 8, 2023, following the departure of Alex Cherniss. Kimberly previously served as superintendent at Lake Elsinore Unified School District and has extensive experience in education administration 
+
+- **Contact Information for the District**:
+  * **Main Office**:
+    * Address: 375 Via Almar, Palos Verdes Estates, CA 90274
+    * Website: [www.pvpusd.net](https://www.pvpusd.net)
+
+### Summary Table
+
+| **Name** | **Position** | **Phone** | **Email** |
+|----------|--------------|-----------|-----------|
+| Devin Serrano, Ph.D. | Superintendent | Not provided | Not provided |
+| Suzanne Wildey, Ed.D. | Assistant Superintendent, Educational Services | Not provided | Not provided |
+| Rick Licciardello, Ed.D. | Assistant Superintendent, Human Resources | Not provided | Not provided |
+| Ben Dale, Ed.D. | Director of Teaching & Learning | Not provided | Not provided |
+| Aileen Tzeng | Assistant | Not provided | Not provided |
+| Dr. Brent Kuykendall | Principal of Palos Verdes Peninsula High School | (310) 377-4888 Ext. 42200 | kuykendallb@pvpusd.net |
+| Linda Reid | Board of Education Member | Not provided | Not provided |
+| Ami Gandhi | Board President | Not provided | Not provided |
+| Megan Wescott | CDS Coordinator (Contact for Data Updates) | (310) 378-9966 Ext. 404 | Not provided |
+
+This list provides a comprehensive overview of the key personnel in the Palos Verdes Peninsula Unified School District, including their roles and contact information where available. For more detailed information or updates, you can visit the district's official website or contact the main office directly. 
+
 **Arcadia Unified School District**  
 - **Location**: Arcadia, CA  
 - **Schools**: Includes six elementary schools (e.g., Holly Avenue, Baldwin Stocker), three middle schools (e.g., Foothills Middle School), and one high school, Arcadia High School, serving 8,818 students. All schools are National Blue Ribbon or California Distinguished ([Niche](https://www.niche.com/k12/d/arcadia-unified-school-district-ca/)).  
