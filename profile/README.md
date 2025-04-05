@@ -202,7 +202,87 @@ This district has also risen in the rankings, displacing the San Francisco Unifi
 
 ![San Francisco Unified School District (SFUSD)](https://github.com/user-attachments/assets/0f8619b2-8272-4e4e-8760-8328be99c165)
 
-While SFUSD is not among the top-ranked districts in the Bay Area, it has a diverse range of schools and programs. The district has been working to improve its performance and address socio-economic and demographic disparities. Some notable schools within SFUSD include Graystone, Bret Harte, and Leland, which are considered to be relatively good
+The San Francisco Unified School District (SFUSD) is a significant educational institution in California, serving the City and County of San Francisco. Established in 1851, it is the first public school district in the state and the only one within San Francisco. The district is managed by the San Francisco Board of Education and is known for its commitment to providing quality education and equitable support to its students.
+
+### Overview
+- **Type**: Public
+- **Grades**: K-12
+- **Established**: 1851
+- **Superintendent**: Dr. Maria Su
+- **Schools**: 121 (as of March 2024)
+- **Students**: 49,500 (as of March 2024)
+- **Staff**: 10,000 (as of August 2023)
+- **Website**: [www.sfusd.edu](www.sfusd.edu)
+
+### Mission and Vision
+The mission of SFUSD is to provide each and every student with the quality instruction and equitable support required to thrive in the 21st century. The district aims for all students to graduate as independent thinkers with a sense of agency, equipped with academic and creative skills to lead productive lives and contribute to the community.
+
+### School Choice System
+SFUSD utilizes an intra-district school choice system, which requires students and parents to submit a selection application. This system allows families to choose from a variety of schools across the district. However, the system is set to change to ensure that more students, particularly at the elementary level, are placed in neighborhood schools. This change aims to address issues of segregation and resource allocation disparities.
+
+### Academic Performance
+SFUSD has the second-highest Academic Performance Index among the seven largest California school districts. According to state test scores, 45% of students are at least proficient in math, and 54% are proficient in reading. Despite these achievements, there are areas for improvement, particularly in resource allocation and addressing disparities among schools.
+
+### Financial and Operational Details
+- **Annual Budget**: $1.17 billion
+- **Instructional Spending**: $504.8 million
+- **Support Services**: $369.0 million
+- **Other Spending**: $28.1 million
+- **Staff Count**: 4,535.94 (as of the 2023-2024 school year)
+
+### Key Personnel
+- **Superintendent**: Dr. Maria Su
+- **Chief Business Official**: Jackie Chen
+
+### Address and Contact Information
+- **Physical Address**: 555 Franklin St., San Francisco, CA 94102-5207
+- **Mailing Address**: 555 Franklin St., San Francisco, CA 94102-5207
+- **Phone Number**: (415) 241-6000
+- **Fax Number**: (415) 241-6012
+- **Email**: Information Not Available
+- **Web Address**: [www.sfusd.edu](www.sfusd.edu)
+
+### Recent Developments
+- **Distinguished Schools**: Four SFUSD schools—John Yehall Chin Elementary, Francis Scott Key Elementary, Sunset Elementary, and Chinese Immersion School at De Avila Elementary—have been named California Distinguished Schools.
+- **JROTC Cadet Leadership Challenge**: Over 200 students from six SFUSD high schools with Army Junior Reserve Officers' Training Corps (JROTC) are preparing for the JROTC Cadet Leadership Challenge, scheduled from March 27 to April 2, 2025.
+- **Special Education Services**: SFUSD is taking proactive steps to strengthen its systems and structures for serving students who receive Special Education services.
+
+### Historical Context
+In 2011, SFUSD implemented a full choice assignment system, which aimed to increase diversity and provide more options for families. However, this system led to increased segregation, with schools becoming more segregated than they were under the previous OER system. In 2018, the school board voted to create a new plan to address segregation, focusing on diversity, predictability, and proximity with a zone-based assignment system for elementary students.
+
+### Community and Support
+SFUSD offers various programs to support students, including summer internships that allow students to explore career options. The district is committed to providing resources and support to help students pursue their academic and career interests.
+
+### Challenges and Criticisms
+While SFUSD is highly rated and known for its resources and commitment to academic excellence, there are areas that need improvement. One significant issue is the disparity in resource allocation among schools. Some schools have state-of-the-art facilities and ample supplies, while others struggle with outdated equipment and insufficient materials.
+
+### Conclusion
+The San Francisco Unified School District (SFUSD) is a vital educational institution with a rich history and a strong commitment to providing quality education and equitable support to its students. Despite challenges, the district continues to innovate and improve, aiming to ensure that all students have the opportunity to succeed and thrive.
+
+### Summary Table
+| **Category**               | **Details**                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| **Type**                   | Public                                                                      |
+| **Grades**                 | K-12                                                                        |
+| **Established**            | 1851                                                                        |
+| **Superintendent**         | Dr. Maria Su                                                                |
+| **Schools**                | 121 (as of March 2024)                                                      |
+| **Students**               | 49,500 (as of March 2024)                                                   |
+| **Staff**                  | 10,000 (as of August 2023)                                                  |
+| **Website**                | [www.sfusd.edu](www.sfusd.edu)                                              |
+| **Annual Budget**          | $1.17 billion                                                               |
+| **Instructional Spending** | $504.8 million                                                              |
+| **Support Services**       | $369.0 million                                                              |
+| **Other Spending**         | $28.1 million                                                               |
+| **Physical Address**       | 555 Franklin St., San Francisco, CA 94102-5207                              |
+| **Mailing Address**        | 555 Franklin St., San Francisco, CA 94102-5207                              |
+| **Phone Number**           | (415) 241-6000                                                              |
+| **Fax Number**             | (415) 241-6012                                                              |
+| **Email**                  | Information Not Available                                                   |
+| **Web Address**            | [www.sfusd.edu](www.sfusd.edu)                                              |
+| **Key Personnel**          | Superintendent: Dr. Maria Su, Chief Business Official: Jackie Chen          |
+| **Recent Developments**    | Distinguished Schools, JROTC Cadet Leadership Challenge, Special Education   |
+| **Historical Context**     | Full choice assignment system, new zone-based assignment system for diversity|
 
 #### 2. **Pleasanton Unified School District**
 Although not in San Francisco, the Pleasanton Unified School District is a close neighbor and is often considered a better fit for families with diverse needs. It has lower ratings compared to some of the top districts but is known for being more compassionate and balanced in its approach to education
