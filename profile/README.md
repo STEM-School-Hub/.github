@@ -190,11 +190,222 @@ Palo Alto Unified School District is consistently ranked as one of the best scho
 #### 2. **Los Gatos-Saratoga Joint Union High School District**
 This district has been recognized for its exceptional performance, ranking in the top 2% of 31,000 high schools in the U.S. according to U.S. News Los Gatos supplements its budget with separate property taxes and a robust community funding program, which contributes to its high standards of education
 
+The Los Gatos-Saratoga Union High School District (LGSUHSD) is a highly regarded public school district located in the greater San Jose, California area. The district is known for its academic excellence and is often ranked among the top school districts in California. It serves residents of the Saratoga Union School District, the Lakeside Joint School District, the Los Gatos Union School District, and the Loma Prieta Joint Union Elementary School District.
+
+### Overview
+- **District Name**: Los Gatos-Saratoga Union High School District
+- **NCES District ID**: 0622800
+- **State District ID**: CA-4369534
+- **Mailing Address**: 17421 Farley Road West, Los Gatos, CA 95030-3308
+- **Phone Number**: (408) 354-2520
+- **Website**: [lgsuhsd.org](http://www.lgsuhsd.org)
+- **Type**: Regular local school district
+- **Status**: Open
+- **Total Schools**: 2
+- **Grade Span**: 9 - 12
+
+### Leadership
+- **President**: Katherine Tseng
+- **Vice-president**: Misty Davies
+- **Superintendent**: Heath Rocha (Acting Superintendent as of October 24, 2024, following the resignation of Bill W. Sanderson)
+- **Chief Business Official**: Ruben Fernandez
+- **Title IX Coordinator/Nondiscrimination Coordinator/UCP Compliance Officer**: Megan Farrell
+
+### Schools
+The district operates two high schools:
+- **Los Gatos High School**
+
+  - **City**: Los Gatos
+  - **Students**: 2,166
+  - **FTE Teachers**: 94
+  - **Student/Teacher Ratio**: 22:1
+  - **Ranking**: Ranked 79th within California and #611 in the National Rankings
+  - **AP Participation Rate**: 66%
+  - **Minority Enrollment**: 43%
+  - **Economically Disadvantaged Students**: 11%
+
+- **Saratoga High School**
+
+  - **City**: Saratoga
+  - **Students**: 1,386
+  - **FTE Teachers**: 70
+  - **Student/Teacher Ratio**: 19:1
+  - **Ranking**: Ranked 16th within California
+  - **AP Participation Rate**: Not specified
+
+### Academic and Extracurricular Programs
+- **Academic Programs**: Both high schools offer a variety of academic programs, including Advanced Placement (AP) courses and International Baccalaureate (IB) programs.
+- **Extracurricular Activities**: Students have access to a wide range of extracurricular activities, including sports teams, robotics, music, environmental clubs, and leadership opportunities.
+- **Special Education**: The district ensures that all students with specialized learning needs are provided with a free and appropriate public education. Services include speech and language support, special education classes, and individualized education programs (IEPs).
+
+### Recent Developments
+- **Superintendent Resignation**: On October 24, 2024, Superintendent Bill W. Sanderson resigned amid tensions with parents and staff, particularly over changes to the music program at Saratoga High School. Heath Rocha was appointed as the interim superintendent.
+- **Budget and Financial Management**: The district is committed to fiscal responsibility and maintains a detailed budget process. The 2024-25 District Budget was adopted on June 25, 2024, and interim reports are regularly presented to the Board of Trustees.
+- **Title IX Compliance**: The district is committed to providing educational programs free from unlawful discrimination, harassment, and bullying. Title IX policies are strictly enforced to ensure a safe and inclusive environment for all students and staff.
+
+### Community and Parental Involvement
+- **Parental Feedback**: The district values parental input and has mechanisms in place for parents to voice concerns and provide feedback. This includes town hall meetings and regular communication channels.
+- **Community Support**: The district is supported by a strong community, with many parents and local organizations contributing to the success of the schools through volunteer work, fundraising, and advocacy.
+
+### Enrollment and Residency
+- **Enrollment for the 2025/2026 School Year**: Enrollment for the 2025/2026 school year is now open. Students must reside within the district boundaries to attend. Proof of residency and immunization records are required for enrollment.
+
+### Rankings and Performance
+- **State Test Scores**: According to state test scores, 83% of students are at least proficient in math and 90% in reading.
+- **National Rankings**: The district is often ranked among the top school districts in California, with both high schools performing well in national rankings.
+
+### Conclusion
+The Los Gatos-Saratoga Union High School District is a model of excellence in education, offering a rich and diverse academic and extracurricular experience to its students. Despite recent challenges, the district remains committed to maintaining high standards and providing a supportive and inclusive learning environment.
+
+### Summary Table
+| **Category** | **Details** |
+|--------------|-------------|
+| **District Name** | Los Gatos-Saratoga Union High School District |
+| **NCES District ID** | 0622800 |
+| **State District ID** | CA-4369534 |
+| **Mailing Address** | 17421 Farley Road West, Los Gatos, CA 95030-3308 |
+| **Phone Number** | (408) 354-2520 |
+| **Website** | [lgsuhsd.org](http://www.lgsuhsd.org) |
+| **Type** | Regular local school district |
+| **Status** | Open |
+| **Total Schools** | 2 |
+| **Grade Span** | 9 - 12 |
+| **President** | Katherine Tseng |
+| **Vice-president** | Misty Davies |
+| **Superintendent** | Heath Rocha (Acting) |
+| **Chief Business Official** | Ruben Fernandez |
+| **Title IX Coordinator** | Megan Farrell |
+| **Schools** | Los Gatos High School, Saratoga High School |
+| **Students (2020-2021)** | 3,470 |
+| **FTE Teachers** | 159.9 |
+| **Staff** | 138.19 |
+| **Student-Teacher Ratio** | 21.7:1 |
+| **State Test Scores** | 83% proficient in math, 90% proficient in reading |
+| **National Rankings** | Los Gatos High School: #611, Saratoga High School: #16 in California |
+| **AP Participation Rate** | Los Gatos High School: 66%, Saratoga High School: Not specified |
+| **Recent Developments** | Superintendent Bill W. Sanderson resigned on October 24, 2024; Heath Rocha appointed as interim superintendent |
+| **Budget** | 2024-25 District Budget adopted on June 25, 2024 |
+| **Enrollment** | Open for the 2025/2026 school year; proof of residency required |
+
 #### 3. **Santa Clara Unified School District**
 The Santa Clara Unified School District has made significant strides in recent years, cracking the top 20 list of the best school districts in the Bay Area The district is known for its strong academic programs and diverse student body.
 
+The Santa Clara Unified School District (SCUSD) is a public school district located in Santa Clara County, California, serving the cities of Santa Clara, Sunnyvale, San Jose, and Cupertino. Established on July 1, 1966, the district was formed through the unification of three elementary school districts and one high school district: Alviso, Jefferson, and Santa Clara Elementary districts, and the Santa Clara Union High School District. The first superintendent of SCUSD was Lawrence C. Curtis, who had previously served as the superintendent of Jefferson Union School District 
+
+### Current Structure and Demographics
+As of the 2023–2024 school year, SCUSD serves approximately 14,236 students across 31 schools, including 18 elementary schools (K–5), 4 middle schools (6–8), 1 K–8 school, 5 high schools (9–12), 1 community day school, 1 adult education program, and a dual enrollment partnership with the West Valley–Mission Community College District at Mission College  The district's student body is highly diverse, with 37.2% of students being Hispanic or Latino, 31.2% being Asian American and Pacific Islander, and 16.9% being white. Additionally, 22.1% of students are English learners, and 32.6% are considered socioeconomically disadvantaged 
+
+### Historical Context
+The formation of SCUSD was driven by rapid population increases and industrialization in the mid-20th century. The state government's financial incentives in 1964 further encouraged the unification of school districts. Santa Clara voters approved the unification in October 1965, leading to the official establishment of SCUSD on July 1, 1966  The district experienced significant changes in the 1970s and 1980s, including declining enrollment and the closure of 15 schools. Notably, Buchser High School closed in 1981, and its campus was repurposed as the new location for Santa Clara High School 
+
+### Recent Developments
+In June 2014, SCUSD purchased 59.4 acres of the former Agnews Developmental Center to build a K–12 educational facility. This initiative led to the opening of Agnew Elementary School and Huerta Middle School in 2021, and MacDonald High School in 2022  The district has also been proactive in addressing teacher housing needs. In April 2002, SCUSD opened the Casa del Maestro Apartment Complex, the first subsidized teacher housing in California, with 40 initial units constructed in 2001 and an additional 30 units opened in 2009 
+
+### Educational Programs and Initiatives
+SCUSD is committed to preparing students to succeed in an ever-changing world. The district emphasizes STEM education, with a focus on critical thinking, problem-solving, and collaboration. The lunch system is noted for its quality, with fresh food brought in daily. Faculty and staff are described as genuinely caring about their students, particularly as they approach graduation 
+
+### Community Engagement
+The Santa Clara Unified Council of PTAs (SCU Council PTA) plays a crucial role in building a bridge between the units, district, state, and National PTA, creating a support system for the grass-root associations. The council serves 20 PTAs in schools within SCUSD  Additionally, the district offers after-school programs through Right At School, providing safe and engaging environments for students to learn, play, and grow 
+
+### Governance and Leadership
+SCUSD is governed by an elected Board of Trustees, which appoints the superintendent. The board consists of seven members who serve four-year terms. In 2022, the district switched from at-large board member elections to district-based representation to ensure more equitable representation  The current superintendent is Gary Waddell 
+
+### Financial and Operational Details
+The district's budget for the 2023–2024 school year is $531.9 million, with a total staff of 1,690.93 full-time equivalents (FTE). The student-teacher ratio is 19.48, and the district maintains a fleet of 29 school buses, including four electric buses received through the Carl Moyer Grant Program in 2020 
+
+### Community and Support
+SCUSD has a strong community presence, with active engagement from parents, teachers, and local organizations. The district has received support from 4,455 individuals in California and 766 individuals out-of-state through platforms like DonorsChoose, where teachers have had 2,692 projects funded  The district is committed to non-discrimination and provides a safe and inclusive environment for all students 
+
+### Summary Table
+| **Category** | **Details** |
+|--------------|-------------|
+| **Established** | July 1, 1966  |
+| **Superintendent** | Gary Waddell  |
+| **Schools** | 31  |
+| **Students** | 14,236 (2023–2024)  |
+| **Teachers (FTE)** | 730.92 (2023–2024)  |
+| **Staff (FTE)** | 1,690.93 (2023–2024)  |
+| **Budget** | $531.9 million (2023–2024)  |
+| **Student-Teacher Ratio** | 19.48 (2023–2024)  |
+| **Demographics** | 37.2% Hispanic or Latino, 31.2% Asian American and Pacific Islander, 16.9% white  |
+| **English Learners** | 22.1%  |
+| **Socioeconomically Disadvantaged** | 32.6%  |
+| **Board of Trustees** | 7 members, elected to 4-year terms  |
+| **After-School Programs** | Provided by Right At School  |
+| **Community Engagement** | Active PTAs and community support  |
+| **Transportation** | Fleet of 29 school buses, including 4 electric buses  |
+| **Mission** | Prepare students of all ages and abilities to succeed in an ever-changing world  |
+
 #### 4. **Campbell Union High School District**
 This district has also risen in the rankings, displacing the San Francisco Unified School District and the Milpitas Unified School District Campbell Union High School District is recognized for its commitment to student success and community engagement.
+
+The Campbell Union High School District (CUHSD) is a prominent public school district located in Santa Clara County, California. It serves the Silicon Valley communities of San Jose, Campbell, Saratoga, Santa Clara, Los Gatos, and Monte Sereno, as well as the unincorporated communities of Burbank, Cambrian Park, and Fruitdale. The district was established on August 13, 1900, and has a rich history of educational excellence and community engagement.
+
+### Historical Background
+The first high school to open in the district was Campbell High School, which began operations on September 14, 1900, with a registration of 35 students, consisting of 23 girls and 12 boys. Two teachers, Professor E. A. Powers and Miss J. M. Newton, were hired to educate the students. The first graduating class had only one student, Charles Beardsley, who went on to Stanford University and became a lawyer, demonstrating the school's academic merit. Over the years, the district expanded to meet the growing needs of the community, particularly during the baby boom after World War II. Additional campuses were built, including Camden High School (1955), Del Mar High School (1957), Blackford High School (1959), Leigh High School (1960), Westmont High School (1965), Branham High School (1966), and Prospect High School (1968) 
+
+### Current Structure and Operations
+As of 2025, the CUHSD operates six high school campuses: Branham High School, Del Mar High School, Leigh High School, Prospect High School, Westmont High School, and Boynton High School. Additionally, it runs the Campbell Adult & Community Education program. The district serves more than 8,600 students and employs over 800 teachers and staff. The student-to-teacher ratio is approximately 22.78:1 
+
+### Governance
+The district is governed by a five-member board of trustees, each representing a specific trustee area. The current board members are:
+- **James Kim**: Trustee Area 1, next election in 2026
+- **Elisabeth Halliday**: Trustee Area 2, next election in 2026
+- **Jason Baker**: Trustee Area 3, next election in 2026
+- **Linda Goytia**: Trustee Area 4, next election in 2024
+- **Aine O'Donovan**: Trustee Area 5, appointed on October 6, 2022, to fill a vacancy, next election in 2024 
+
+### Superintendent
+Dr. Robert Bravo has been serving as the superintendent of the CUHSD since 2022. The district's administrative office is located at 3235 Union Avenue, San Jose, CA 95124, and can be reached at (408) 371-0960 
+
+### Academic Achievements and Recognition
+The CUHSD has a strong track record of academic excellence. All five comprehensive high schools in the district have been recognized on the U.S. News and World Report’s list of Best High Schools in America. Additionally, the district has been included in the Educational Results Partnership’s (ERP) “Honor Roll” list of California’s top-performing school districts. In 2024, Leigh High School was named a National Blue Ribbon School by the U.S. Department of Education, one of only 13 high schools in California to receive this prestigious honor. Leigh High School earned this distinction as an Exemplary High Performing School, recognizing the dedication and collaboration of its students, educators, and community 
+
+### Community and Professional Development
+The district places a strong emphasis on community engagement and professional development. It hosts annual Teacher Professional Development Days, where educators come together to exchange best practices, insights, and innovative teaching strategies. The California School Boards Association (CSBA) has recognized the CUHSD’s Camden Post-Secondary Program in partnership with West Valley College with the Golden Bell Award, celebrating excellence in education and innovative programs that positively impact students 
+
+### Schools and Programs
+Here is a detailed overview of the schools and programs within the CUHSD:
+
+* **Branham High School**: Located in San Jose, it serves 1,911 students with a pupil-to-teacher ratio of 24.05.
+* **Del Mar High School**: Located in San Jose, it serves 1,326 students with a pupil-to-teacher ratio of 20.26.
+* **Leigh High School**: Located in San Jose, it serves 1,786 students with a pupil-to-teacher ratio of 24.08.
+* **Prospect High School**: Located in Saratoga, it serves 1,573 students with a pupil-to-teacher ratio of 23.21.
+* **Westmont High School**: Located in Campbell, it serves 1,723 students with a pupil-to-teacher ratio of 24.32.
+* **Boynton High School**: Located in San Jose, it is an alternative school serving 196 students with a pupil-to-teacher ratio of 12.98.
+* **Campbell Adult & Community Education**: Offers adult education programs in San Jose.
+
+### Historical Schools
+Several schools in the district have closed over the years:
+* **Blackford High School**: Closed in 1991. The campus is now partially used for Boynton Alternative High School.
+* **Branham High School**: Closed in 1991 but re-opened in 1999.
+* **Camden High School**: Closed in 1980.
+* **Campbell High School**: Closed in 1980. The campus was purchased by the city of Campbell in 1985 and is now used as a community center [1][2].
+
+### Notable Alumni and Contributions
+Campbell High School, despite its closure, has produced notable alumni, including:
+- **Dudley R. Herschbach**: Nobel Prize-winning chemist.
+- **Donald D. Chamberlin**: Computer scientist and one of the principal designers of the SQL database query language.
+- **Steve Davis**: Major League Baseball (MLB) player for the Chicago Cubs.
+- **Emil M. Mrak**: Chancellor of the University of California at Davis.
+- **Larry Norman**: Pioneer of Christian rock 
+
+### Conclusion
+The Campbell Union High School District continues to be a leader in educational excellence, fostering a supportive and inclusive learning environment for its students. With a strong focus on academic achievement, community engagement, and professional development, the district remains committed to preparing its students for success in higher education and beyond.
+
+### Summary Table
+| **Category** | **Details** |
+|--------------|-------------|
+| **Established** | August 13, 1900 |
+| **Superintendent** | Dr. Robert Bravo |
+| **Board of Trustees** | James Kim, Elisabeth Halliday, Jason Baker, Linda Goytia, Aine O'Donovan |
+| **Schools** | Branham, Del Mar, Leigh, Prospect, Westmont, Boynton, Campbell Adult & Community Education |
+| **Students** | 8,600+ |
+| **Teachers and Staff** | 800+ |
+| **Student-to-Teacher Ratio** | 22.78:1 |
+| **Notable Achievements** | U.S. News and World Report’s Best High Schools, National Blue Ribbon School (Leigh High School), Golden Bell Award (Camden Post-Secondary Program) |
+| **Historical Schools** | Blackford, Branham, Camden, Campbell High School |
+| **Notable Alumni** | Dudley R. Herschbach, Donald D. Chamberlin, Steve Davis, Emil M. Mrak, Larry Norman |
 
 ### School Districts in San Francisco
 
